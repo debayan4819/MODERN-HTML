@@ -1,0 +1,12 @@
+HTML entities are the reserved characters that are used in the HTML document. They are not present in your standard keyboard. They provide a wide range of characters, allowing you to add icons, geometric shapes, mathematical operators, and so on.\
+examples-
+< or < for the less than sign (<)
+> or > for the greater than sign (>)
+& or & for the ampersand sign (&)
+" or " for the double quotation mark (")
+© or © for the copyright sign (©)
+€ or € for the euro sign (€)
+® or ® for the registered trademark sign (®)
+  or for the non-breaking space
+­ or ­ for the soft hyphen
+♥ or ♥ for the heart symbol (♥)

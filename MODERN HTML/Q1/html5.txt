@@ -1,0 +1,18 @@
+Some of the features of HTML5 are:
+
+1.Audio and video- tags that allow developers to embed multimedia content on their websites without using external plugins.
+2.Vector graphics- that enable drawing graphics with various shapes and colors via scripting, usually JavaScript. Vector graphics are scalable, easy to create and edit, and support interactivity and animation.
+3.Header and footer- tags that define the top and bottom sections of a web page, making it easier for the browser to load the content and for the developers to organize the layout.
+4.Input- tag types that have been expanded to include new values such as email, number, date, color, range, etc., which provide more functionality and validation for user input.
+5.Figure and figcaption-tags that allow adding captions to images or other elements, improving the accessibility and semantics of the web page.
+6.Placeholders-that show a hint or a sample value in an input field, making it more user-friendly and intuitive.
+7.Preload-attribute that specifies if and how a video or audio should be loaded when the page loads, improving the performance and user experience.
+8.Regular expressions that allow matching patterns in strings, such as validating email addresses, phone numbers, passwords, etc., making the web development more efficient and secure.
+9.Adaptability- that enables creating responsive web pages that can adjust to different screen sizes and devices, enhancing the usability and accessibility of the web content.
+10.Support for dynamic pages- that allow creating interactive and animated web pages using JavaScript, CSS, and other technologies, making the web more engaging and appealing.
+11.Email-attribute that allows sending emails from a web page, making it more convenient and user-friendly.
+12.Cryptographic nonces- that are random strings used to prevent replay attacks and ensure the integrity and authenticity of the web requests, making the web more secure and reliable.
+14.Reverse links- that allow linking back to the original source of a web page, making it more transparent and credible.
+15.Images with a width of zero- that allow hiding images from the browser but not from screen readers, making the web more accessible and inclusive.
+16.Canvas-element that allows drawing graphics on the fly using JavaScript, making the web more creative and dynamic.
+
